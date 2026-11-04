@@ -1,0 +1,12 @@
+R com.miui.analytics|https://tracking.miui.com/track/v4 https://data.mistat.xiaomi.com/log https://api.ad.xiaomi.com/config
+R com.miui.systemadsolution|https://api.ad.xiaomi.com/report https://adv.sec.miui.com/collect
+R com.facebook.services|https://graph.facebook.com/logging/beacon https://b-graph.facebook.com/report
+R com.example.weather.free|https://collect.adtrk-example.net/upload https://api.weather-example.com/v2/forecast
+R com.example.flashlight|https://metrics.example-sdk.io/collect https://app-update.example-sdk.io/log
+R com.example.keyboard.pro|https://api.keyboard-example.com/stat
+R com.vendor.screenassist|https://telemetry.vendor-example.com/report
+R com.google.android.gms|https://android.googleapis.com/log https://play.googleapis.com/log/batch
+R com.android.vending|https://play.googleapis.com/upload
+R org.example.notes|https://sync.notes-example.org/api/items
+R com.spotify.music|https://spclient.wg.spotify.com/v1/config
+#DONE

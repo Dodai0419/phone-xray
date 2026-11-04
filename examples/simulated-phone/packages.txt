@@ -1,0 +1,12 @@
+package:/system/app/com.miui.analytics/base.apk=com.miui.analytics
+package:/system/app/com.miui.systemadsolution/base.apk=com.miui.systemadsolution
+package:/system/app/com.facebook.services/base.apk=com.facebook.services
+package:/data/app/com.example.weather.free/base.apk=com.example.weather.free
+package:/data/app/com.example.flashlight/base.apk=com.example.flashlight
+package:/data/app/com.example.keyboard.pro/base.apk=com.example.keyboard.pro
+package:/system/app/com.vendor.screenassist/base.apk=com.vendor.screenassist
+package:/system/app/com.google.android.gms/base.apk=com.google.android.gms
+package:/system/app/com.android.vending/base.apk=com.android.vending
+package:/data/app/org.example.notes/base.apk=org.example.notes
+package:/data/app/com.spotify.music/base.apk=com.spotify.music
+package:/system/app/com.android.systemui/base.apk=com.android.systemui

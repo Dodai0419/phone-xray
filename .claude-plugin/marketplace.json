@@ -1,0 +1,13 @@
+{
+  "name": "phone-xray",
+  "owner": {
+    "name": "Dodai0419"
+  },
+  "plugins": [
+    {
+      "name": "phone-xray",
+      "source": "./",
+      "description": "See what any Android phone or TV can leak, then switch it off with one-step undo."
+    }
+  ]
+}

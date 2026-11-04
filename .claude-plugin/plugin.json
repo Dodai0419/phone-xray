@@ -1,0 +1,8 @@
+{
+  "name": "phone-xray",
+  "description": "See what any Android phone or TV can leak, then switch it off with one-step undo.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Dodai0419"
+  }
+}

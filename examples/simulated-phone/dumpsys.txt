@@ -1,0 +1,94 @@
+Packages:
+  Package [com.miui.analytics] (a000):
+    appId=10100
+    flags=[ SYSTEM HAS_CODE ]
+    installerPackageName=null
+    install permissions:
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+      android.permission.PACKAGE_USAGE_STATS: granted=true
+      android.permission.READ_PHONE_STATE: granted=true
+      android.permission.INTERNET: granted=true
+  Package [com.miui.systemadsolution] (a001):
+    appId=10101
+    flags=[ SYSTEM HAS_CODE ]
+    installerPackageName=null
+    install permissions:
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+      android.permission.INTERNET: granted=true
+  Package [com.facebook.services] (a002):
+    appId=10102
+    flags=[ SYSTEM HAS_CODE ]
+    installerPackageName=null
+    install permissions:
+      android.permission.GET_ACCOUNTS: granted=true
+      android.permission.READ_PHONE_STATE: granted=true
+      android.permission.INTERNET: granted=true
+  Package [com.example.weather.free] (a003):
+    appId=10103
+    flags=[ HAS_CODE ]
+    installerPackageName=com.android.vending
+    install permissions:
+      android.permission.ACCESS_FINE_LOCATION: granted=true
+      android.permission.ACCESS_BACKGROUND_LOCATION: granted=true
+      android.permission.INTERNET: granted=true
+  Package [com.example.flashlight] (a004):
+    appId=10104
+    flags=[ HAS_CODE ]
+    installerPackageName=com.android.vending
+    install permissions:
+      android.permission.READ_CONTACTS: granted=true
+      android.permission.CAMERA: granted=true
+      android.permission.INTERNET: granted=true
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+  Package [com.example.keyboard.pro] (a005):
+    appId=10105
+    flags=[ HAS_CODE ]
+    installerPackageName=com.android.vending
+    install permissions:
+      android.permission.RECORD_AUDIO: granted=true
+      android.permission.READ_CONTACTS: granted=true
+      android.permission.INTERNET: granted=true
+  Package [com.vendor.screenassist] (a006):
+    appId=10106
+    flags=[ SYSTEM HAS_CODE ]
+    installerPackageName=null
+    install permissions:
+      android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION: granted=true
+      android.permission.PACKAGE_USAGE_STATS: granted=true
+      android.permission.INTERNET: granted=true
+  Package [com.google.android.gms] (a007):
+    appId=10107
+    flags=[ SYSTEM HAS_CODE ]
+    installerPackageName=null
+    install permissions:
+      android.permission.ACCESS_FINE_LOCATION: granted=true
+      android.permission.READ_CONTACTS: granted=true
+      android.permission.GET_ACCOUNTS: granted=true
+      android.permission.INTERNET: granted=true
+  Package [com.android.vending] (a008):
+    appId=10108
+    flags=[ SYSTEM HAS_CODE ]
+    installerPackageName=null
+    install permissions:
+      android.permission.QUERY_ALL_PACKAGES: granted=true
+      android.permission.INTERNET: granted=true
+  Package [org.example.notes] (a009):
+    appId=10109
+    flags=[ HAS_CODE ]
+    installerPackageName=com.android.vending
+    install permissions:
+      android.permission.INTERNET: granted=true
+  Package [com.spotify.music] (a00a):
+    appId=10110
+    flags=[ HAS_CODE ]
+    installerPackageName=com.android.vending
+    install permissions:
+      android.permission.RECORD_AUDIO: granted=true
+      android.permission.INTERNET: granted=true
+  Package [com.android.systemui] (a00b):
+    appId=10111
+    flags=[ SYSTEM HAS_CODE ]
+    installerPackageName=null
+    install permissions:
+      android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION: granted=true
+      android.permission.INTERNET: granted=true
